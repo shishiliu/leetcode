@@ -2,7 +2,9 @@
 https://leetcode.com/problems/single-number/
 
 ### Key point:
- # linear runtime complexity
+ - linear runtime complexity
+ - without using extra memory
 
 ### Hint:
- # hashcode
+ - hashcode
+ - XOR
